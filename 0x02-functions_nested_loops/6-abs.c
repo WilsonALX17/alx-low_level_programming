@@ -1,4 +1,4 @@
-#incluse "main.h"
+#include "main.h"
 
 /**
  * _abs - Computes the absolute value of an interger.
@@ -15,7 +15,7 @@ int _abs(int c)
 	int abs_val;
 	
 	abs_val = c * -1;
-	return (abs_wall);
+	return (abs_val);
 	}
 	return (c);
 }	
